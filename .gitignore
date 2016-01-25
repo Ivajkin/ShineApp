@@ -31,3 +31,11 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+# Additional
+.DS_Store
+node_modules
+npm-debug.log
+bower_components
+build
+.sass-cache
